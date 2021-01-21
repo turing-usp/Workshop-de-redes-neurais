@@ -1,1 +1,4 @@
 .vscode/settings.json
+fashion-mnist_train.csv
+.gitignore
+fashion-mnist_test.csv
