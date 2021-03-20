@@ -1,6 +1,6 @@
 # 🔥 Workshop de Redes Neurais com Pytorch 🔥
 
-Bem vindo à mais um workshop do Grupo Turing!
+Bem vindo a mais um workshop do Grupo Turing!
 
 Dessa vez falaremos sobre uma que vem ganhando muita fama nos últimos anos: as redes neurais! Abordaremos seus principais conceitos e até criaremos uma utilizando o famoso framework PyTorch!
 
