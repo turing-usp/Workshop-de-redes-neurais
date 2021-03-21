@@ -2,3 +2,4 @@
 .gitignore
 fashion-mnist_test.csv
 .gitattributes
+.ipynb_checkpoints
