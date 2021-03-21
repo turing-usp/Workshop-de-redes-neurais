@@ -10,9 +10,9 @@ Dessa vez falaremos sobre uma que vem ganhando muita fama nos últimos anos: as 
 ### [👩‍🏫 Slides]() 👷 ainda não há link!
 
 ### 👨‍💻 Código para ser completado
-- **[☁️ Colab](https://colab.research.google.com/github/GrupoTuring/Workshop-de-redes-neurais/blob/main/redes_neurais.ipynb)**
+- **[☁️ Online](https://mybinder.org/v2/gh/GrupoTuring/Workshop-de-redes-neurais/main?filepath=%2Fredes_neurais.ipynb)**
 - **[📝 Github](https://github.com/GrupoTuring/Workshop-de-redes-neurais/blob/main/redes_neurais.ipynb)**
 
 ### 👩‍⚖️ Código Completo
-- **[☁️ Colab](https://colab.research.google.com/github/GrupoTuring/Workshop-de-redes-neurais/blob/main/gabarito.ipynb)**
+- **[☁️ Online](https://mybinder.org/v2/gh/GrupoTuring/Workshop-de-redes-neurais/main?filepath=%2Fgabarito.ipynb)**
 - **[📝 Github](https://github.com/GrupoTuring/Workshop-de-redes-neurais/blob/main/gabarito.ipynb)**
