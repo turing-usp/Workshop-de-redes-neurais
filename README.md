@@ -7,7 +7,7 @@ Dessa vez falaremos sobre uma que vem ganhando muita fama nos últimos anos: as 
 
 ## 📚 Material da Aula
 
-### [👩‍🏫 Slides]() 👷 ainda não há link!
+### [👩‍🏫 Slides](Slides_WS.pdf) 
 
 ### 👨‍💻 Código para ser completado
 - **[☁️ Colab](https://colab.research.google.com/github/GrupoTuring/Workshop-de-redes-neurais/blob/main/redes_neurais.ipynb)**
